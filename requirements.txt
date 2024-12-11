@@ -1,0 +1,6 @@
+#requestws- for making API calls to Yelp,Google Maps, OpenWeather
+#beutifulsoup4- webscraping if API access fai;s
+#json- For handling JSON responses from API's
+# django- for creating the web application to display dynamic proces
+#python decouple- securely saving API keys and environment variables
+#pytest- writing trst cases to verify dynamic pricing logic
